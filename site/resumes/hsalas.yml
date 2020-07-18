@@ -9,11 +9,11 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: Héctor
+    last_name: Salas Inostroza
     
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto: Desarrollador 
     
     # focus
     focus: Killing Bad Boys
